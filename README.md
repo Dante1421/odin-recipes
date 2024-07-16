@@ -1,0 +1,1 @@
+This project is setted for a kind of brutalist webpage. When i am finished with this thing, i will come back to write more information of what is going on.
